@@ -1,0 +1,12 @@
+{
+  "name": "alexa-skill-movie-guru",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.5",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
